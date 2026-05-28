@@ -1,10 +1,9 @@
-🧠 Facial Expression Recognition using Deep Convolutional Neural Networks
+Facial Expression Recognition using Deep Convolutional Neural Networks
 
 A deep learning project that detects **human facial emotions** from grayscale images using a custom-built **Convolutional Neural Network (CNN)** trained on the **FER2013 dataset**.
 
 ---
-
-📌 Overview
+Overview
 
 Facial expressions are a powerful indicator of human emotions. This project builds an end-to-end facial expression recognition system that classifies facial images into seven emotional categories:
 
@@ -13,8 +12,7 @@ Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral
 The complete workflow is implemented in Google Colab and demonstrates the entire pipeline from dataset loading and preprocessing to model training and feature visualization.
 
 ---
-
-🗂 Dataset
+Dataset
 
 FER2013 Dataset: https://drive.google.com/file/d/1-ltonXDdaCc-iRyV79bPBxaWPpUn28wB/view 
 
@@ -24,8 +22,7 @@ FER2013 Dataset: https://drive.google.com/file/d/1-ltonXDdaCc-iRyV79bPBxaWPpUn28
 * Format: CSV file with pixel values as strings
 
 ---
-
-⚙️ Model Architecture
+Model Architecture
 
 The CNN architecture used in this project:
 
@@ -49,8 +46,7 @@ This layered structure enables the model to learn:
 * High-level emotional patterns
 
 ---
-
-🚀 How to Run
+How to Run
 
 1. Mount Google Drive
 
